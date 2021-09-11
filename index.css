@@ -1,0 +1,79 @@
+.ver{
+    width: 800px;
+    margin: auto;
+    box-shadow: white;
+    padding: 30px; 
+    margin-top: 100px;
+}
+
+.kopf{
+    background-color: rgb(157, 173, 179);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.logo{
+    width: 200px;
+    height: 100px;
+    left: auto 
+}
+
+h1{
+    text-align: center;
+}
+
+.Fuss1{
+    text-align: center;
+    font-weight: 900;
+    font-size: 10000;
+
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+
+.Foot{
+    background-color: rgb(157, 173, 179);
+    text-align: center;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.Depit{
+    margin: auto;
+}
+
+.Dep{
+    border-style: none;
+    width: 200px;
+    height: 300px;
+}
+.Scooter{
+    margin:auto;
+    margin-top: -390px;
+    margin-left: 450px;
+}
+
+li {
+    display: inline;
+    float: right;
+  }
+
+  li a {
+    display: block;
+    color: rgb(22, 5, 5);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
